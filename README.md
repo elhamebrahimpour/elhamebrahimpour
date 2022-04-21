@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @elhamebrahimpour
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning android programming.
+- 🌱 I’m junior android deeloper.
+- 🌱 I’m currently learning flutter programming.
 - 💞️ I’m looking to collaborate on projects.
 
 <!---
